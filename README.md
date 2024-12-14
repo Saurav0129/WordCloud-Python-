@@ -9,6 +9,13 @@ This Python script generates word clouds from text files, allowing users to visu
 * Support for custom background masks
 * Visualization using Matplotlib
 
+## Example 🖼️
+
+* Wordcloud:
+![Wordcloud Image](Images/Wordcloud_Image.png)
+* Customized WordCloud:
+![Customized WordCloud Image](Images/Customized_Images_Image.png)
+
 ## Prerequisites
 Before running the script, ensure you have the following installed:
 * Python 3.7+
